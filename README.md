@@ -13,5 +13,6 @@ DCGAN is a Generative Adversarial Network (GAN) using CNN.
 
 <img src="./Discriminator vs Adversial Loss.jpg">
 
-Generated Fake number
+## Generated Fake number
+
 <img src="./Generated fake number.jpg">
