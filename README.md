@@ -6,6 +6,9 @@ DCGAN is a Generative Adversarial Network (GAN) using CNN.
 - DCGAN trains the discriminator and adversarial networks alternately.
 - During training, not only the discriminator learns to distinguish real from fake images, it also coaches the generator part of the Adversarial network on how to improve its ability to generate fake images.
 
+In this project we have built a model which will generate fake nunbers based on the real numbers using DCGAN as explained above.
+The dataset used for this project is the MNIST dataset.
+
 ## Training Visualization
 - We can observe from the accuracy plot that the accuracy of the Discriminator is decreasing over time as it is failing to classify properly the fake generated number.
 - Also the accuracy of the Adversarial network is increasing as the fake numbers generated are getting better over time.
